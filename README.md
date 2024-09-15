@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @georgey48
-- 👀 I’m interested in Java, C#, Python, and C.
-- 🌱 I’m currently learning all of the above although I have commercial experience of most. Always something to learn.
-- 💞️ I’m looking to collaborate on anything interesting really.
-- 📫 How to reach me georgey48@hotmail.com initially.
+- Java Dev, C# Dev, Python Dev, C, C++, BASH, PHP
 
 <!---
 georgey48/georgey48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
